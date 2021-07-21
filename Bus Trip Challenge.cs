@@ -6,7 +6,7 @@ namespace Bus_Trip_Challenge_Question
     {
         static void Main(string[] args)
         {
-            //Homework: Bus challenge question
+            //Bus challenge question
 
             Console.WriteLine("Would you like a medium or a large bus?");
 
